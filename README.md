@@ -1,2 +1,2 @@
-# Finch
-problem solving
+# problem solving
+Finch
